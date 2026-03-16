@@ -18,6 +18,10 @@ I. Connect the multimeter at the output of kit..
 
 
 OBSERVATION TABLE
+![image]( https://raw.githubusercontent.com/llekhashrielumalai-cpu/EXP-6/a4a77c4297ed024dc309f7503386ca759312a9cf/6.1.jpeg)
+![image](https://raw.githubusercontent.com/llekhashrielumalai-cpu/EXP-6/a4a77c4297ed024dc309f7503386ca759312a9cf/6.2.jpeg
+)
+![image](https://raw.githubusercontent.com/llekhashrielumalai-cpu/EXP-6/a4a77c4297ed024dc309f7503386ca759312a9cf/6.3.png)
 
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
